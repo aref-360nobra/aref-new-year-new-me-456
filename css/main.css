@@ -1,0 +1,46 @@
+.dummy_img {
+    background-color: rgba(241, 91, 34, 0.2);
+    border-radius: 50%;
+    margin-top: 131px;
+    margin-right: 206px;
+    background-position: center;
+}
+
+main>section {
+    display: flex;
+
+}
+
+ul li {
+    list-style: none;
+    color: rgb(68, 67, 67);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-bottom: 8px;
+    margin-left: 35px;
+}
+
+main section h3 {
+    margin-bottom: 24px;
+    color: rgb(21, 20, 20);
+    font-size: 40px;
+    line-height: 47px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding-left: 45px;
+    margin-top: 370px;
+}
+
+main section p {
+    margin-bottom: 16px;
+    color: rgb(68, 67, 67);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding-left: 45px;
+}
